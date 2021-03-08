@@ -1,0 +1,17 @@
+{
+    "login": {
+        "BOT_USERNAME" : "instagramUsername",
+        "BOT_PASSWORD" : "instagramPassword"
+    },
+    "commands": {
+        "hello" : "Hello 👋\nHow can I help you ?\n\nType 'Help' to get a list of commands 😉",
+        "hi" : "Hello 👋\nHow can I help you ?\n\nType 'Help' to get a list of commands 😉",
+        "help" : "No problem ! 😎\n \nHere's a list of commands : \n - CV \n - About \n - Website",
+        "about" : "👋😄 \nI have some knowledge in software and web developing, and most of my time I’m developing a bunch of random things. 💻☕ \nI also like networking, and my website is there to share.. things… 😲 but over all, I really wanted to setup my own website on a server. Hoping to be able to host it (and other projects) on my own server one day.😳 \nI love CTF’s, and I usually train on Root-Me, TryHackMe and HackTheBox. 😊 \nMy specialities are 🔗 networking, 🔒 cryptography, 🔎 steganography, and some 🌐 web related things.",
+        "website" : "Here is my website : \nhttps://w01f.xyz/ \n😊",
+        "cv" : "No problem, I will send it soon !",
+        "thx" : "Np ! 😉",
+        "thanks" : "No problem ! 😄"
+    }
+	
+}
